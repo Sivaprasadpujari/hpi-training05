@@ -1,0 +1,9 @@
+{
+	"name": "pujari-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "458ae716-160f-41c3-b51e-f6bf3cd7d9a4",
+		"tenantId": "9ee2d93b-93f9-45e1-840e-b0c3900c27c9"
+	}
+}
